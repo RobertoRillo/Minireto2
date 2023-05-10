@@ -1,5 +1,7 @@
 README
 
+link de aws: http://18.223.164.115:3000/
+
 This is a simple API built with Node.js and Express that allows you to perform basic CRUD operations on a MySQL database. It provides endpoints for retrieving, creating, updating, and deleting product information in the database.
 
 Installation
