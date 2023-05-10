@@ -2,6 +2,8 @@ README
 
 link de aws: http://18.223.164.115:3000/
 
+(MAKE SURE TO WRITE IN CAPITAL LETTERS THE TYPES OF PRODUCTS SUCH AS HOODIES, PANTS, SHORTS, SHOES, AND CAPS.)
+
 This is a simple API built with Node.js and Express that allows you to perform basic CRUD operations on a MySQL database. It provides endpoints for retrieving, creating, updating, and deleting product information in the database.
 
 Installation
